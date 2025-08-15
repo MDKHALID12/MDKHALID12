@@ -18,7 +18,7 @@
 
 🛠 **Tech Stack**
 
-Languages: Python, C
+Languages: Python, C,
 ML/DL: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow
 Web Development: Python,Flask, Django, HTML, CSS
 Databases: MySQL, SQLite
