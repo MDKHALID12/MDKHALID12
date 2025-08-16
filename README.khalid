@@ -16,7 +16,7 @@
  
 ---
 
-🛠 **Tech Stack**
+ **Tech Stack**
 
 Languages: Python, C,
 ML/DL: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow
@@ -30,7 +30,7 @@ Tools: Git, GitHub, VS Code, Jupyter Notebook,Google Colab
 
  Hospital Management System – Web-based system using HTML, CSS, Python (Flask/Django)
 
-🤖 AI Chatbot – NLP-based chatbot using Python
+ AI Chatbot – NLP-based chatbot using Python
 
  Data Analysis Dashboard – Interactive data visualization with Python & Matplotlib
 
