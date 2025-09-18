@@ -21,7 +21,7 @@
 Languages: Python, C,
 ML/DL: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow
 Databases: MySQL, SQLite
-Tools: Git, GitHub, VS Code, Jupyter Notebook,Google Colab
+Tools: Git, GitHub, VS Code, Jupyter Notebook,Google Colab,kaggle
 
 ---
 
