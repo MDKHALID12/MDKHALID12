@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkhalid12&label=Profile%20views&color=0e75b6&style=flat" alt="mdkhalid12" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning,Scikit Learn**
+- 🌱 I’m currently Study **Computer Sceince Engineering**
 
 - I am currently working project **House Price Prediction with Machine Learning**
 
