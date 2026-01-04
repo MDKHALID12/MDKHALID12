@@ -1,6 +1,6 @@
 ![logo](https://github.com/MDKHALID12/MDKHALID12/blob/main/ai-technology-banner-vector-46282252.avif)
 <h1 align="center">Hi 👋, I'm MD KHALID</h1>
-<h3 align="center">Aspiring AI/ML Engineer From India</h3>
+<h3 align="center">Aspiring Data Sceincetist From India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.pinterest.com/ideas/coding-gifs-aesthetic/896913177658/">
 
@@ -10,7 +10,7 @@
 
 - I am currently working project **House Price Prediction with Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://mdkhalid.netlify.app/](https://mdkhalid.netlify.app/)
+- 👨‍💻 All of my projects are available at(------)
 
 - 📫 How to reach me **khalid9708697426@gmail.com**
 
