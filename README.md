@@ -1,4 +1,4 @@
-![logo](https://github.com/MDKHALID12/MDKHALID12/blob/main/ai-technology-banner-vector-46282252.avif)
+
 <h1 align="center">Hi 👋, I'm MD KHALID</h1>
 <h3 align="center">Aspiring Data Sceincetist From India</h3>
 
