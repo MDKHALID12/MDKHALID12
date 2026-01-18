@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently Study **Computer Sceince Engineering**
 
-- I am currently working project **House Price Prediction with Machine Learning**
+- I am currently working project **UPI Fraud Detection**
 
 - 👨‍💻 All of my projects are available at(------)
 
