@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm MD KHALID</h1>
-<h3 align="center">Aspiring Data Sceincetist From India</h3>
+<h3 align="center">Aspiring Data Sceincetist</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.pinterest.com/ideas/coding-gifs-aesthetic/896913177658/">
 
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently Study **Computer Sceince Engineering**
 
-- I am currently working project **UPI Fraud Detection**
+- I am currently working project **Vendor Performance Data Analytics**
 
-- 👨‍💻 All of my projects are available at(------)
+- 👨‍💻 All of my projects are available at(https://github.com/MDKHALID12)
 
 - 📫 How to reach me **khalid9708697426@gmail.com**
 
