@@ -1,4 +1,3 @@
-<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/8333225d-48c5-42d5-844a-b7ae071184d1" />![logo](https://github.com/MDKHALID12/MDKHALID12/blob/main/Data%20sceince%20banner.gif)
 <h1 align="center">Hi 👋, I'm MD KHALID</h1>
 <h3 align="center">Aspiring Data Scientist From India</h3>
 
