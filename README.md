@@ -1,8 +1,9 @@
-![logo](https://github.com/MDKHALID12/MDKHALID12/blob/main/Data%20sceince%20banner.gif)
+<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/8333225d-48c5-42d5-844a-b7ae071184d1" />![logo](https://github.com/MDKHALID12/MDKHALID12/blob/main/Data%20sceince%20banner.gif)
 <h1 align="center">Hi 👋, I'm MD KHALID</h1>
 <h3 align="center">Aspiring Data Scientist From India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/rudrabarad/Gifs">
+<img align="right" alt="coding" width="400" src="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/62ee7a73-a26f-496d-9c69-2660d3bfd608" />
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkhalid12&label=Profile%20views&color=0e75b6&style=flat" alt="mdkhalid12" /> </p>
 
