@@ -1,3 +1,4 @@
+![logo](https://github.com/MDKHALID12/MDKHALID12/blob/main/Data%20sceince%20banner.gif)
 <h1 align="center">Hi 👋, I'm MD KHALID</h1>
 <h3 align="center">Aspiring Data Scientist From India</h3>
 
