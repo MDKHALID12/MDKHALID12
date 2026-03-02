@@ -1,7 +1,6 @@
+![logo](https://github.com/MDKHALID12/MDKHALID12/blob/main/Data%20sceince%20banner.gif)
 <h1 align="center">Hi 👋, I'm MD KHALID</h1>
 <h3 align="center">Aspiring Data Scientist From India</h3>
-
-<img align="right" alt="coding" width="400" src="https://github.com/MDKHALID12/MDKHALID12/blob/main/Data%20sceince%20banner.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkhalid12&label=Profile%20views&color=0e75b6&style=flat" alt="mdkhalid12" /> </p>
 
