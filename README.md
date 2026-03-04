@@ -8,7 +8,7 @@
 
 - I am currently working **Data Analysis & Machine Learning Project**
 
-- 👨‍💻 All of my projects are available at [https://mdkhalid.netlify.app/](https://mdkhalid.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://data-analyst-portfolio1.netlify.app/](https://data-analyst-portfolio1.netlify.app/)
 
 - 💬 Ask me about **Python,Data Analysis, SQL,Machine Learning**
 
