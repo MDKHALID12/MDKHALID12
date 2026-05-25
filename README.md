@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python,Data Analysis, SQL,Machine Learning**
 
-- 📫 How to reach me **khalid9708697426@gmail.com**
+- 📫 How to reach me **mdkhalid97086@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
