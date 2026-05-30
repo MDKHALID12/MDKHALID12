@@ -30,3 +30,77 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdkhalid12&show_icons=true&locale=en&layout=compact" alt="mdkhalid12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdkhalid12&" alt="mdkhalid12" /></p>
+About Me
+
+🎓 B.Tech CSE Student (2023–2027)
+🤖 Aspiring Data Scientist & AI Engineer
+🐍 Python Developer
+🌐 Web Developer (Flask, Django, HTML, CSS)
+📊 Machine Learning & Data Science Learner 
+
+🚀 My Journey
+My journey into technology started in 2023 when I began my B.Tech in Computer Science and Engineering.
+
+With a strong interest in programming and innovation, I started learning Python and web development. Over time, I built projects that helped me understand how software is designed, developed, and deployed.
+
+One of my major projects is a Hospital Management System, developed using Python, Flask, Django, HTML, and CSS.
+
+Currently, I am focused on expanding my skills in:
+
+🐍 Python Programming
+📊 Data Science
+🤖 Machine Learning & Artificial Intelligence
+🗄 SQL & Database Management
+🌐 Full-Stack Web Development
+📈 Data Analysis & Visualization
+
+My goal is to become a skilled Data Scientist and contribute to impactful AI-driven solutions.
+
+The journey is just beginning, and I am committed to learning and improving every day. 🚀
+🌟 Vision & Mission
+🎯 My Mission
+
+To develop intelligent and data-driven solutions that solve real-world problems and create meaningful impact.
+
+🔭 My Vision
+
+To build a successful career in Artificial Intelligence, Machine Learning, and Data Science while continuously growing as a technology professional.
+
+💡 Core Values
+
+🚀 Continuous Learning
+📊 Data-Driven Thinking
+🤝 Consistency & Discipline
+🔍 Problem Solving
+📈 Growth Mindset
+
+💼 Skills & Expertise
+🐍 Programming
+Python
+Java
+Object-Oriented Programming (OOP)
+🌐 Web Development
+HTML
+CSS
+Flask
+Django
+📊 Data Science & AI
+NumPy
+Pandas
+Data Analysis
+Machine Learning (Learning)
+Data Visualization
+🗄 Database
+SQL
+MySQL
+🛠 Tools
+Git
+GitHub
+VS Code
+Jupyter Notebook
+📌 Projects
+🏥 Hospital Management System
+
+A web-based hospital management platform built using Flask, Django, HTML, CSS, and Python for managing patient and hospital operations efficiently.
+
+⭐ "Learning Every Day. Building with Purpose. Growing Through Technology."
