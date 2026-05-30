@@ -39,6 +39,7 @@ About Me
 📊 Machine Learning & Data Science Learner 
 
 🚀 My Journey
+
 My journey into technology started in 2023 when I began my B.Tech in Computer Science and Engineering.
 
 With a strong interest in programming and innovation, I started learning Python and web development. Over time, I built projects that helped me understand how software is designed, developed, and deployed.
@@ -58,6 +59,7 @@ My goal is to become a skilled Data Scientist and contribute to impactful AI-dri
 
 The journey is just beginning, and I am committed to learning and improving every day. 🚀
 🌟 Vision & Mission
+
 🎯 My Mission
 
 To develop intelligent and data-driven solutions that solve real-world problems and create meaningful impact.
@@ -75,22 +77,29 @@ To build a successful career in Artificial Intelligence, Machine Learning, and D
 📈 Growth Mindset
 
 💼 Skills & Expertise
+
 🐍 Programming
 Python
 Java
 Object-Oriented Programming (OOP)
+
 🌐 Web Development
+
 HTML
 CSS
 Flask
 Django
+
 📊 Data Science & AI
+
 NumPy
 Pandas
 Data Analysis
 Machine Learning (Learning)
 Data Visualization
+
 🗄 Database
+
 SQL
 MySQL
 🛠 Tools
@@ -99,8 +108,31 @@ GitHub
 VS Code
 Jupyter Notebook
 📌 Projects
-🏥 Hospital Management System
+🎬 AI-Based Movie Recommendation System
 
-A web-based hospital management platform built using Flask, Django, HTML, CSS, and Python for managing patient and hospital operations efficiently.
+An intelligent movie recommendation system built using Python, Machine Learning, Pandas, NumPy, and Scikit-learn that suggests movies based on user preferences and similarity analysis.
 
-⭐ "Learning Every Day. Building with Purpose. Growing Through Technology."
+Key Features:
+
+🎯 Personalized movie recommendations
+📊 Data preprocessing and analysis
+🤖 Machine Learning recommendation engine
+🔍 Content-based filtering
+📈 User-friendly recommendation results
+
+Ya thoda aur professional:
+
+🎬 AI-Based Movie Recommendation System
+
+Developed an AI-powered recommendation system that analyzes movie data and user preferences to provide personalized movie suggestions. The project utilizes machine learning techniques and data analysis to improve recommendation accuracy and user experience.
+
+Technologies Used: Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
+
+Key Features:
+
+Personalized movie recommendations
+Data cleaning and preprocessing
+Similarity-based recommendation engine
+Interactive and efficient prediction system
+
+⭐ Learning Every Day. Building with Purpose. Growing Through Technology.
