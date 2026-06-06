@@ -35,24 +35,22 @@ About Me
 🎓 B.Tech CSE Student (2023–2027)
 🤖 Aspiring Data Scientist & AI Engineer
 🐍 Python Developer
-🌐 Web Developer (Flask, Django, HTML, CSS)
 📊 Machine Learning & Data Science Learner 
 
 🚀 My Journey
 
 My journey into technology started in 2023 when I began my B.Tech in Computer Science and Engineering.
 
-With a strong interest in programming and innovation, I started learning Python and web development. Over time, I built projects that helped me understand how software is designed, developed, and deployed.
+With a strong interest in programming and innovation, I started learning Python and Data Science. Over time, I built projects that helped me understand how software is designed, developed, and deployed.
 
-One of my major projects is a Hospital Management System, developed using Python, Flask, Django, HTML, and CSS.
-
+One of my major projects is a vendor performance data analysis, developed using Python, SQL, PowerBI, Excel, and Tableau.
+I
 Currently, I am focused on expanding my skills in:
 
 🐍 Python Programming
 📊 Data Science
 🤖 Machine Learning & Artificial Intelligence
 🗄 SQL & Database Management
-🌐 Full-Stack Web Development
 📈 Data Analysis & Visualization
 
 My goal is to become a skilled Data Scientist and contribute to impactful AI-driven solutions.
@@ -80,15 +78,8 @@ To build a successful career in Artificial Intelligence, Machine Learning, and D
 
 🐍 Programming
 Python
-Java
+SQL
 Object-Oriented Programming (OOP)
-
-🌐 Web Development
-
-HTML
-CSS
-Flask
-Django
 
 📊 Data Science & AI
 
