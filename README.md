@@ -8,7 +8,7 @@
 
 - I am currently working **Data Analysis & Machine Learning Project**
 
-- 👨‍💻 All of my projects are available at [https://khalid-portfolio7.netlify.app/)
+- 👨‍💻 All of my projects are available at [ ])
 
 - 💬 Ask me about **Python,Data Analysis, SQL,Machine Learning**
 
@@ -111,19 +111,3 @@ Key Features:
 🔍 Content-based filtering
 📈 User-friendly recommendation results
 
-Ya thoda aur professional:
-
-🎬 AI-Based Movie Recommendation System
-
-Developed an AI-powered recommendation system that analyzes movie data and user preferences to provide personalized movie suggestions. The project utilizes machine learning techniques and data analysis to improve recommendation accuracy and user experience.
-
-Technologies Used: Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
-
-Key Features:
-
-Personalized movie recommendations
-Data cleaning and preprocessing
-Similarity-based recommendation engine
-Interactive and efficient prediction system
-
-⭐ Learning Every Day. Building with Purpose. Growing Through Technology.
